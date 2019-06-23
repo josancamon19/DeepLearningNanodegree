@@ -1,0 +1,2 @@
+refer to pytorch_scholarship/dog_breed/
+The project was solved in this folder
